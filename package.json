@@ -1,7 +1,7 @@
 {
   "name": "shopping-cart-ngxs",
   "version": "0.0.0",
-  "homepage": "https://connorsmith-shopping-cart-ngxs.github.io/",
+  "homepage": "https://connorsmith-pf.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
